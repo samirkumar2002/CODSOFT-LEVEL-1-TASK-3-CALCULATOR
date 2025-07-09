@@ -73,6 +73,12 @@ This project helps learners:
 
 # OUTPUT OF THE TASK PERFORMED
 
+<img width="1902" height="942" alt="Image" src="https://github.com/user-attachments/assets/5f38395c-0b17-4662-a726-9dcc5ee9bb5c" />
+
+<img width="1893" height="945" alt="Image" src="https://github.com/user-attachments/assets/c29a94cc-0daf-43a0-9115-524f2d75d162" />
+
+<img width="1906" height="946" alt="Image" src="https://github.com/user-attachments/assets/de6f353f-36a5-4045-aa9b-b208cf9321b2" />
+
 
 
 
